@@ -1,0 +1,9 @@
+includeFlat 'sample-secure'
+/*
+pluginManagement {
+	repositories {
+		gradlePluginPortal()
+	}
+}
+*/
+rootProject.name = 'sample-main'
